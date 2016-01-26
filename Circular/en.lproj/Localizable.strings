@@ -1,0 +1,54 @@
+/* 
+  Localizable.strings
+  Circular
+
+  Created by 東海林 誠 on 12/01/21.
+  Copyright (c) 2012年 PrimeTheory. All rights reserved.
+*/
+
+"Back" = "Back";
+"Information" = "Information";
+"Settings" = "Settings";
+"Application" = "Application";
+"Notification" = "Notifications";
+"ApplicationName" = "App Name";
+"Version" = "Version";
+"Developer" = "Developer";
+"Sound" = "Sound";
+"Vibration" = "Vibration";
+"Safari" = "Open in Safari";
+"Cancel" = "Cancel";
+"WiFi" = "WiFi";
+"Location" = "Location";
+"Bluetooth" = "Bluetooth";
+"Airplane" = "Airplane";
+"Notifications" = "Notifications";
+"Brightness" = "Brightness";
+"Sounds" = "Sounds";
+"Launch" = "Launch!";
+"Initialize" = "Initialize";
+"ExecInitialize" = "Execute Initialize";
+"SettingShortcut" = "Setting Shortcut";
+"Restore" = "Restores the initial installation.";
+"LaunchApp" = "Launch Apps";
+"Shortcut" = "Shortcuts";
+"SetScheme" = "Configure the feature you want to start or app URL scheme.";
+"EditScheme" = "Editing scheme";
+"LaunchAppName" = "Launch App";
+"UrlScheme" = "URL Scheme";
+"InputApp" = "Input AppName";
+"InputScheme" = "Input URL Scheme";
+"Introduction" = "Introduction";
+/*
+"IntroductionDescript" = "Application has not been set yet started. Please search in the Internet or http://www.circular.so/scheme_en.html URL scheme for Launch the app.";
+ */
+"IntroductionDescript" = "Application has not been set yet started. Please search in the Internet URL scheme for Launch the app. This app URL scheme is circular:// ";
+"Ok" = "OK";
+"NowInitialize" = "Now Initializing...";
+"LaunchError" = "Launch Error";
+"LaunchWrong" = "Please set the correct URL scheme.";
+"URLScheme" = "http://www.circular.so/scheme_en.html";
+"AboutScheme" = "URL Scheme List";
+"DisableSettings" = "*URL scheme for Settings cannot be used.";
+
+
